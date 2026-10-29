@@ -1,0 +1,6 @@
+{
+  "name": "Fake News Detection Using Machine Learning",
+  "description": "An MCA mini project featuring a TF-IDF and Logistic Regression machine learning pipeline for detecting fake news, complete with interactive detector, evaluation metrics, full academic documentation, and downloadable Python Flask project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
